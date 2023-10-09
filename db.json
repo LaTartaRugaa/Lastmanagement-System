@@ -1,4 +1,4 @@
-{"car_connected" : null
+{"car_connected" : null,
   "car_mode" : null,
   "car_p" : null,
   "delay" : 1,
@@ -10,4 +10,4 @@
   "relay_state" : null,
   "relay_config" : null,
   "update_interval" : 10,
-  "wattpilot_interval" : 2
+  "wattpilot_interval" : 2}
