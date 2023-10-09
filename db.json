@@ -2,6 +2,6 @@
   "car_mode" : null,
   "car_p" : null,
   "preference" : null,
-  "pv_mode" : "max self consumption"
+  "pv_mode" : "max self consumption",
   "relay_state" : null,
   "relay_config" : [true, false]}
