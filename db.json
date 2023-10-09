@@ -4,7 +4,7 @@
   "preference" : "car",
   "p_standby_range" : 20,
   "pv_mode" : "max self consumption",
-  "standby_interval" : 3
+  "standby_interval" : 3,
   "update_interval" : 10,
   "wattpilot_interval" : 2,
 },
