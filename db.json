@@ -17,6 +17,6 @@
     "device_on" : null,
     "p_grid" : null,
     "relay_state" : null,
-    "relay_config" : null,
+    "relay_config" : null
   }
 }
