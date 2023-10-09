@@ -1,7 +1,11 @@
-{"delay" : 1,
-  "car_mode" : null,
+{"car_mode" : null,
   "car_p" : null,
+  "delay" : 1,
+  "delay_on" : false,
+  "device_on" : false,
   "preference" : null,
   "pv_mode" : "max self consumption",
   "relay_state" : null,
-  "relay_config" : [true, false]}
+  "relay_config" : [true, false],
+  "update_interval" = 10,
+  "wattpilot_interval" = 2
