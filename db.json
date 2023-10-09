@@ -1,1 +1,7 @@
-{"test": "e"}
+{"delay" : 1,
+  "car_mode" : null
+  "car_p" : null,
+  "preference" : null,
+  "pv_mode" : "max self consumption"
+  "relay_state" : null,
+  "relay_config" : [true, false]}
