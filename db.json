@@ -1,11 +1,13 @@
-{"car_mode" : null,
+{"car_connected" : null
+  "car_mode" : null,
   "car_p" : null,
   "delay" : 1,
   "delay_on" : false,
-  "device_on" : false,
-  "preference" : null,
+  "device_on" : null,
+  "p_grid" : null,
+  "preference" : "car",
   "pv_mode" : "max self consumption",
   "relay_state" : null,
-  "relay_config" : [true, false],
+  "relay_config" : null,
   "update_interval" : 10,
   "wattpilot_interval" : 2
