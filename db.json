@@ -16,8 +16,8 @@
 "car_mode": null,
 "car_p": null,
 "device_on": null,
-"p_grid": -368.89,
-"relay_state": 0,
+"p_grid": 1841.88,
+"relay_state": 1,
 "relay_config": null
 }
 }
