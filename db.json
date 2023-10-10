@@ -13,13 +13,13 @@
 "raspberry": {
 "battery_fully_charged": null,
 "car_battery_level": null,
-"car_connected": "no car",
+"car_connected": "complete",
 "car_mode": null,
 "car_p": null,
 "device_on": null,
-"p_grid": 148.08,
+"p_grid": 123.2,
 "relay_state": 1,
 "relay_config": null,
-"standby" : false
+"standby": false
 }
 }
