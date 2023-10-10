@@ -19,6 +19,7 @@
 "device_on": null,
 "p_grid": 148.08,
 "relay_state": 1,
-"relay_config": null
+"relay_config": null,
+"standby" : false
 }
 }
