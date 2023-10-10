@@ -7,7 +7,7 @@
 "pv_mode": "max self consumption",
 "standby": true,
 "standby_interval": 2,
-"update_interval": 5,
+"update_interval": 10,
 "wattpilot_interval": 2
 },
 "raspberry": {
