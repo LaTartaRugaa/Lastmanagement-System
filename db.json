@@ -17,7 +17,7 @@
 "car_mode": "Eco",
 "car_p": 0.0,
 "device_on": true,
-"p_grid": -32.62,
+"p_grid": 311.07,
 "relay_state": 0,
 "relay_config": null,
 "standby": false
