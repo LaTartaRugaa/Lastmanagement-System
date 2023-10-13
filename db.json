@@ -4,7 +4,7 @@
 "device_on": true,
 "preference": "car",
 "p_standby_range": 10,
-"pv_mode": "always on",
+"pv_mode": "max self consumption",
 "standby": false,
 "standby_interval": 2,
 "update_interval": 0.1,
@@ -12,18 +12,18 @@
 },
 "raspberry": {
 "battery_fully_charged": false,
-"car_battery_level": 16110.35279,
+"car_battery_level": 16122.95822,
 "car_connected": "charging",
 "car_mode": "Default",
-"car_p": 11.17,
+"car_p": 11.14,
 "device_on": true,
-"p_grid": 11445.17,
+"p_grid": 11446.19,
 "relay_state": 1,
 "relay_config": [
 true,
 false
 ],
 "standby": false,
-"p_device": 16.3
+"p_device": 0.0
 }
 }
