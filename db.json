@@ -1,14 +1,14 @@
 {
 "mobile": {
-"delay": 3,
-"device_on": false,
+"delay": 5,
+"device_on": true,
 "preference": "car",
-"p_standby_range": 10,
+"p_standby_range": 20,
 "pv_mode": "always on",
 "standby": false,
-"standby_interval": 2,
-"update_interval": 0.1,
-"wattpilot_interval": 2
+"standby_interval": 10,
+"update_interval": 5,
+"wattpilot_interval": 10
 },
 "raspberry": {
 "battery_fully_charged": true,
