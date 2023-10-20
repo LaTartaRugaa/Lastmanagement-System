@@ -1,15 +1,5 @@
 {
-"mobile": {
-"delay": 3,
-"device_on": false,
-"preference": "car",
-"p_standby_range": 10,
-"pv_mode": "no power purchase",
-"standby": false,
-"standby_interval": 2,
-"update_interval": 0.1,
-"wattpilot_interval": 2
-},
+"mobile": 4.9997308,
 "raspberry": {
 "battery_fully_charged": false,
 "car_battery_level": 16988.70204,
