@@ -16,14 +16,14 @@
 "car_connected": "complete",
 "car_mode": "Default",
 "car_p": 0.0,
-"device_on": true,
+"device_on": false,
 "p_grid": 408.77,
 "relay_state": 1,
 "relay_config": [
 true,
 false
 ],
-"standby": false,
+"standby": true,
 "p_device": 1000
 }
 }
