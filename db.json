@@ -23,7 +23,7 @@
 true,
 false
 ],
-"standby": false,
+"standby": true,
 "p_device": 1000
 }
 }
