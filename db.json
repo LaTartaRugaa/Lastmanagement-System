@@ -1,7 +1,7 @@
 {
 "mobile": {
 "delay": 1,
-"device_on": false,
+"device_on": true,
 "preference": "",
 "p_standby_range": 20,
 "pv_mode": "no_power_purchase",
@@ -12,13 +12,13 @@
 },
 "raspberry": {
 "battery_fully_charged": false,
-"car_battery_level": 1654.298609,
+"car_battery_level": 1482.885701,
 "car_connected": "charging",
 "car_mode": "Default",
-"car_p": 4.33,
+"car_p": 4.34,
 "device_on": true,
-"p_grid": -1646.2200000000003,
-"relay_state": 0,
+"p_grid": 155.64000000000033,
+"relay_state": 1,
 "relay_config": [
 1,
 0
