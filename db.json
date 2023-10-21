@@ -4,7 +4,7 @@
 "device_on": false,
 "preference": "car",
 "p_standby_range": 20,
-"pv_mode": "no power purchase",
+"pv_mode": "max self consumption",
 "standby": false,
 "standby_interval": 2,
 "update_interval": 5,
