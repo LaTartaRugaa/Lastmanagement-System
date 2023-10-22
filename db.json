@@ -4,7 +4,7 @@
 "device_on": true,
 "preference": "",
 "p_standby_range": 20,
-"pv_mode": "always_on",
+"pv_mode": "max_self_consumption",
 "standby": false,
 "standby_interval": 4,
 "update_interval": 5,
@@ -17,7 +17,7 @@
 "car_mode": "Default",
 "car_p": 4.32,
 "device_on": true,
-"p_grid": 437.05,
+"p_grid": 429.3,
 "relay_state": 1,
 "relay_config": [
 1,
