@@ -23,8 +23,8 @@
 1,
 0
 ],
-"standby": false,
+"standby": true,
 "p_device": 0.0,
-"device": 0
+"device": 50
 }
 }
