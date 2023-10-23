@@ -24,6 +24,7 @@
 0
 ],
 "standby": true,
-"p_device": 0.0
+"p_device": 0.0,
+"device": 20
 }
 }
