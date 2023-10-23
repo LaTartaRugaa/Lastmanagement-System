@@ -5,13 +5,13 @@
 "preference": "",
 "p_standby_range": 20,
 "pv_mode": "max_self_consumption",
-"standby": true,
+"standby": false,
 "standby_interval": 4,
 "update_interval": 5,
 "wattpilot_interval": 2
 },
 "raspberry": {
-"battery_fully_charged": false,
+"battery_fully_charged": true,
 "car_battery_level": 2018.028436,
 "car_connected": "no car",
 "car_mode": "Default",
@@ -23,7 +23,7 @@
 1,
 0
 ],
-"standby": false,
+"standby": true,
 "p_device": 16.3
 }
 }
