@@ -18,12 +18,12 @@
 "car_p": 4.32,
 "device_on": true,
 "p_grid": -10,
-"relay_state": 0,
+"relay_state": 1,
 "relay_config": [
 1,
 0
 ],
-"standby": true,
-"p_device": 48.8
+"standby": false,
+"p_device": 0
 }
 }
