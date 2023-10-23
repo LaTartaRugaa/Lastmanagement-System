@@ -1,10 +1,10 @@
 {
 "mobile": {
-"delay": 1,
+"delay": 5,
 "device_on": true,
 "preference": "",
 "p_standby_range": 20,
-"pv_mode": "always_on",
+"pv_mode": "max_self_consumption",
 "standby": true,
 "standby_interval": 4,
 "update_interval": 5,
