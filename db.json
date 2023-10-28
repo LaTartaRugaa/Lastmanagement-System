@@ -16,7 +16,7 @@
 "car_connected": "charging",
 "car_mode": "Default",
 "car_p": 4.26,
-"device_on": true,
+"device_on": false,
 "p_grid": -900,
 "relay_state": 1,
 "relay_config": [
