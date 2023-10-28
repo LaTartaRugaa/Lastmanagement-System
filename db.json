@@ -11,7 +11,7 @@
 "wattpilot_interval": 2
 },
 "raspberry": {
-"battery_fully_charged": false,
+"battery_fully_charged": true,
 "car_battery_level": 17610.05611,
 "car_connected": "charging",
 "car_mode": "Default",
@@ -23,7 +23,7 @@
 1,
 0
 ],
-"standby": false,
-"p_device": 16.3
+"standby": true,
+"p_device": 634.3
 }
 }
