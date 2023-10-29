@@ -1,11 +1,11 @@
 {
 "mobile": {
 "delay": 4,
-"device_on": false,
+"device_on": true,
 "preference": "",
 "p_standby_range": 20,
 "pv_mode": "max_self_consumption",
-"standby": true,
+"standby": false,
 "standby_interval": 4,
 "update_interval": 5,
 "wattpilot_interval": 2
