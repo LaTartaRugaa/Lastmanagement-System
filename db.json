@@ -5,7 +5,7 @@
 "preference": "",
 "p_standby_range": 20,
 "pv_mode": "always_on",
-"standby": false,
+"standby": true,
 "standby_interval": 4,
 "update_interval": 5,
 "wattpilot_interval": 2
