@@ -11,19 +11,19 @@
 "wattpilot_interval": 2
 },
 "raspberry": {
-"battery_fully_charged": false,
+"battery_fully_charged": true,
 "car_battery_level": 19958.49331,
 "car_connected": "no car",
 "car_mode": "Default",
 "car_p": 4.33,
 "device_on": true,
-"p_grid": 440.6,
+"p_grid": 413.26,
 "relay_state": 0,
 "relay_config": [
 1,
 0
 ],
-"standby": false,
+"standby": true,
 "p_device": 16.3
 }
 }
