@@ -1,7 +1,7 @@
 {
 "mobile": {
 "delay": 4,
-"device_on": false,
+"device_on": true,
 "preference": "",
 "p_standby_range": 20,
 "pv_mode": "always_on",
@@ -17,13 +17,13 @@
 "car_mode": "Default",
 "car_p": 4.33,
 "device_on": true,
-"p_grid": 755.4,
+"p_grid": 754.07,
 "relay_state": 0,
 "relay_config": [
 1,
 0
 ],
 "standby": false,
-"p_device": 260.2
+"p_device": 244.0
 }
 }
