@@ -118,6 +118,13 @@ false,
 0,
 false,
 "max_self_consumption"
+],
+"9:45": [
+11.772416645791795,
+false,
+0,
+false,
+"max_self_consumption"
 ]
 }
 }
