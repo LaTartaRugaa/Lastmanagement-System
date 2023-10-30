@@ -510,6 +510,13 @@ true,
 1,
 true,
 "max_self_consumption"
+],
+"13:25": [
+0.0,
+true,
+1,
+true,
+"max_self_consumption"
 ]
 }
 }
