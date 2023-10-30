@@ -167,6 +167,13 @@ false,
 0,
 false,
 "max_self_consumption"
+],
+"10:5": [
+9.808248311360677,
+false,
+0,
+false,
+"max_self_consumption"
 ]
 }
 }
