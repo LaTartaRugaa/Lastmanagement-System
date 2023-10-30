@@ -622,6 +622,13 @@ true,
 1,
 true,
 "max_self_consumption"
+],
+"14:30": [
+0.0,
+true,
+1,
+true,
+"max_self_consumption"
 ]
 }
 }
