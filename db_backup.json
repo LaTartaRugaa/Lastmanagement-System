@@ -2,28 +2,28 @@
 "mobile": {
 "delay": 3,
 "device_on": true,
-"preference": "car",
-"p_standby_range": 10,
-"pv_mode": "always on",
+"preference": "",
+"p_standby_range": 20,
+"pv_mode": "max_self_consumption",
 "standby": false,
 "standby_interval": 2,
-"update_interval": 0.1,
+"update_interval": 10,
 "wattpilot_interval": 2
 },
 "raspberry": {
 "battery_fully_charged": true,
-"car_battery_level": 3179.83054,
-"car_connected": "complete",
+"car_battery_level": 19958.49331,
+"car_connected": "no car",
 "car_mode": "Default",
-"car_p": 0.0,
-"device_on": true,
-"p_grid": 408.77,
+"car_p": 4.33,
+"device_on": false,
+"p_grid": 441.89,
 "relay_state": 1,
 "relay_config": [
-true,
-false
+1,
+0
 ],
 "standby": false,
-"p_device": 0.0
+"p_device": 0
 }
 }
