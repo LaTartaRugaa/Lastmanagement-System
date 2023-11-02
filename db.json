@@ -3,7 +3,7 @@
 "delay": 3,
 "device_on": true,
 "preference": "",
-"p_standby_range": 25.3,
+"p_standby_range": 18,
 "pv_mode": "always_on",
 "standby": true,
 "standby_interval": 2,
