@@ -945,5 +945,14 @@ false,
 true,
 "max_self_consumption"
 ]
+},
+"2.11.2023": {
+"17:6": [
+0.0,
+false,
+1,
+true,
+"max_self_consumption"
+]
 }
 }
