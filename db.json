@@ -17,13 +17,13 @@
 "car_mode": "Default",
 "car_p": 4.33,
 "device_on": true,
-"p_grid": 631.28,
-"relay_state": 0,
+"p_grid": 606.74,
+"relay_state": 1,
 "relay_config": [
 1,
 0
 ],
 "standby": true,
-"p_device": 17.9
+"p_device": 0
 }
 }
