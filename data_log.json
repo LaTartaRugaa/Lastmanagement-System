@@ -953,6 +953,13 @@ false,
 1,
 true,
 "max_self_consumption"
+],
+"17:10": [
+0.45902906027767393,
+false,
+1,
+true,
+"always_on"
 ]
 }
 }
