@@ -4,7 +4,7 @@
 "device_on": true,
 "preference": "",
 "p_standby_range": 18,
-"pv_mode": "no_power_purchase",
+"pv_mode": "max_self_consumption",
 "standby": false,
 "standby_interval": 2,
 "update_interval": 10,
