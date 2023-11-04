@@ -1032,6 +1032,13 @@ false,
 1,
 true,
 "always_on"
+],
+"16:25": [
+5.01207091887792,
+true,
+1,
+false,
+"always_on"
 ]
 }
 }
