@@ -1017,5 +1017,14 @@ false,
 false,
 "always_on"
 ]
+},
+"4.11.2023": {
+"16:20": [
+0.0,
+true,
+1,
+true,
+"no_power_purchase"
+]
 }
 }
