@@ -1,0 +1,86 @@
+<UI>:
+    #:set standard_button_color [0.3, 0.3, 0.3, 1]
+    #:set standard_button_font "Body1"
+    #:set standard_label_font "H6"
+    #:set button_text_color [1, 1, 1, 1]
+    #:set left_offset 10
+    #:set height_title 0.9
+
+    #:set height_p_device height_title - 0.2
+    #:set height_battery_level height_p_device - 0.1
+    #:set height_button_row_1 height_p_device - 0.3
+    #:set height_button_row_2 height_button_row_1 - 0.075
+    #:set height_button_row_3 height_button_row_2 - 0.1
+    
+    #:set button_gap left_offset + 5
+
+    MDFloatLayout:
+        MDFillRoundFlatButton:
+            id: max_self_consumption
+            text: "Max. Eigenverbrauch"
+            md_bg_color: standard_button_color
+            text_color: button_text_color
+            font_style: standard_button_font
+            pos_hint: {"y": height_button_row_1}
+            pos: (left_offset, 0)
+            on_press: root.set_mode("max_self_consumption")
+
+        MDFillRoundFlatButton:
+            id: no_power_purchase
+            text: "Nur PV-Strom"
+            md_bg_color: standard_button_color
+            text_color: button_text_color
+            font_style: standard_button_font
+            pos_hint: {"y": height_button_row_1}
+            pos: (max_self_consumption.width + button_gap, 0)
+            on_press: root.set_mode("no_power_purchase")
+
+        MDFillRoundFlatButton:
+            id: always_on
+            text: "Einfaches Laden"
+            md_bg_color: standard_button_color
+            text_color: button_text_color
+            font_style: standard_button_font
+            pos_hint: {"y": height_button_row_2}
+            pos: (left_offset, 0)
+            on_press: root.set_mode("always_on")
+
+        MDFillRoundFlatButton:
+            id: btn_4
+            text_color: button_text_color
+            font_style: standard_button_font
+            pos_hint: {"center_y": height_button_row_3}
+            pos: (left_offset, 0)
+            on_press: root.set_device_state()
+
+        MDFillRoundFlatButton:
+            id: btn_5
+            text_color: button_text_color
+            font_style: standard_button_font
+            pos_hint: {"center_y": height_button_row_3}
+            pos: (btn_4.width + button_gap, 0)
+            on_press: root.set_standby()
+
+
+        MDLabel:
+            text: "Lastmanagement-App"
+            font_style: "H4"
+            pos_hint: {"center_y": height_title}
+            pos: (left_offset, 0)
+
+
+        MDLabel:
+            id: battery_level
+            text: ""
+            font_style: standard_label_font
+            theme_text_color: "Custom"
+            text_color: (0, 0.75, 0, 1)
+            pos_hint: {"center_y": height_battery_level}
+            pos: (left_offset, 0)
+
+        MDLabel:
+            id: p_device
+            text: ""
+            font_style: standard_label_font
+            pos_hint: {"center_y": height_p_device}
+            pos: (left_offset, 0)       
