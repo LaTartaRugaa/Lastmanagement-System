@@ -13,6 +13,13 @@ true,
 1,
 false,
 "no_power_purchase"
+],
+"21:15": [
+10395.271887050734,
+false,
+0,
+false,
+"no_power_purchase"
 ]
 }
 }
