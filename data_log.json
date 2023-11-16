@@ -106,6 +106,13 @@ false,
 0,
 false,
 "no_power_purchase"
+],
+"15:55": [
+3.4388220836718877,
+false,
+0,
+false,
+"max_self_consumption"
 ]
 }
 }
