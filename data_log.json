@@ -78,6 +78,13 @@ true,
 1,
 true,
 "no_power_purchase"
+],
+"15:44": [
+0.0,
+false,
+1,
+false,
+"no_power_purchase"
 ]
 }
 }
