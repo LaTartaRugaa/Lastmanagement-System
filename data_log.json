@@ -687,6 +687,22 @@
 ],
 "standby": false,
 "p_device": 0
+},
+"18:10:21": {
+"battery_fully_charged": false,
+"car_battery_level": 19958.49331,
+"car_connected": "no car",
+"car_mode": "Default",
+"car_p": 4.33,
+"device_on": true,
+"p_grid": 519.36,
+"relay_state": 1,
+"relay_config": [
+1,
+0
+],
+"standby": false,
+"p_device": 0
 }
 }
 }
