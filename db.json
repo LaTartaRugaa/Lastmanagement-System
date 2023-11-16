@@ -5,7 +5,7 @@
 "preference": "",
 "p_standby_range": 18,
 "pv_mode": "no_power_purchase",
-"standby": true,
+"standby": false,
 "standby_interval": 2,
 "update_interval": 10,
 "wattpilot_interval": 2
@@ -23,7 +23,7 @@
 1,
 0
 ],
-"standby": true,
+"standby": false,
 "p_device": 11.2
 }
 }
