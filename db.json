@@ -23,7 +23,7 @@
 1,
 0
 ],
-"standby": false,
+"standby": true,
 "p_device": 11.2
 }
 }
