@@ -26,6 +26,6 @@
 "standby": false,
 "p_device": 0,
 "pv_mode": "no_power_purchase",
-"energy_flow" : {"16.11.2023"}
+"energy_flow" : {"16.11.2023" : 888}
 }
 }
