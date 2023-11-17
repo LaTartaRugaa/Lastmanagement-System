@@ -1,6 +1,6 @@
 {
 "mobile": {
-"delay": 3,
+"delay": 6,
 "device_on": true,
 "preference": "",
 "p_standby_range": 18,
