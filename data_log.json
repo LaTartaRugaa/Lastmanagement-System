@@ -139,6 +139,26 @@
 "energy_flow": {
 "17.11.2023": 184000.04453959467
 }
+},
+"23:2": {
+"battery_fully_charged": false,
+"car_battery_level": 19958.49331,
+"car_connected": "no car",
+"car_mode": "Default",
+"car_p": 4.33,
+"device_on": true,
+"p_grid": 804.23,
+"relay_state": 0,
+"relay_config": [
+1,
+0
+],
+"standby": false,
+"p_device": 250.5,
+"pv_mode": "no_power_purchase",
+"energy_flow": {
+"17.11.2023": 194700.59158566
+}
 }
 }
 }
