@@ -144,14 +144,14 @@
 "car_mode": "Default",
 "car_p": 4.33,
 "device_on": true,
-"p_grid": 3382.68,
-"relay_state": 1,
+"p_grid": 3378.66,
+"relay_state": 0,
 "relay_config": [
 1,
 0
 ],
 "standby": false,
-"p_device": 0,
+"p_device": 250.5,
 "pv_mode": "no_power_purchase",
 "pv_mo": "no_power_purchase"
 }
