@@ -9,7 +9,7 @@
 "standby_interval": 3,
 "update_interval": 10,
 "wattpilot_interval": 3,
-"log_interval" : 1
+"log_interval": 1
 },
 "raspberry": {
 "battery_fully_charged": false,
@@ -17,8 +17,8 @@
 "car_connected": "no car",
 "car_mode": "Default",
 "car_p": 4.33,
-"device_on": false,
-"p_grid": 507.44,
+"device_on": true,
+"p_grid": 455.52,
 "relay_state": 1,
 "relay_config": [
 1,
