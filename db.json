@@ -18,7 +18,7 @@
 "car_mode": "Default",
 "car_p": 4.33,
 "device_on": true,
-"p_grid": 126.37,
+"p_grid": 146.21,
 "relay_state": 0,
 "relay_config": [
 1,
@@ -27,7 +27,7 @@
 "standby": false,
 "p_device": 143.1,
 "energy_flow": {
-"18.11.2023": 137024.74876074793
+"18.11.2023": 138534.18763587475
 }
 }
 }
