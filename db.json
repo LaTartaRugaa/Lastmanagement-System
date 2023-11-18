@@ -13,12 +13,12 @@
 },
 "raspberry": {
 "battery_fully_charged": false,
-"car_battery_level": 9262.687887,
+"car_battery_level": 9360.293631,
 "car_connected": "charging",
 "car_mode": "Default",
-"car_p": 10.88,
+"car_p": 10.86,
 "device_on": true,
-"p_grid": 13448.96,
+"p_grid": 11315.86,
 "relay_state": 1,
 "relay_config": [
 1,
