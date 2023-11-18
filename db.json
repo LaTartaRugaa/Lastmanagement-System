@@ -24,7 +24,7 @@
 1,
 0
 ],
-"standby": true,
+"standby": false,
 "p_device": 0,
 "energy_flow": {
 "17.11.2023": 115019.49575142859
