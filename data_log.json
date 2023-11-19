@@ -58576,6 +58576,39 @@
 "19.11.2023": 528748.642414951
 }
 }
+},
+"14:36": {
+"mobile": {
+"delay": 12,
+"device_on": true,
+"preference": "",
+"p_standby_range": 18,
+"pv_mode": "max_self_consumption",
+"standby": true,
+"standby_interval": 3,
+"update_interval": 10,
+"wattpilot_interval": 3,
+"log_interval": 1
+},
+"raspberry": {
+"battery_fully_charged": true,
+"car_battery_level": 10465.98565,
+"car_connected": "no car",
+"car_mode": "Default",
+"car_p": 0.0,
+"device_on": true,
+"p_grid": -58.79,
+"relay_state": 1,
+"relay_config": [
+1,
+0
+],
+"standby": true,
+"p_device": 0,
+"energy_flow": {
+"19.11.2023": 528748.642414951
+}
+}
 }
 }
 }
