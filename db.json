@@ -10,7 +10,7 @@
 "update_interval": 10,
 "wattpilot_interval": 3,
 "log_interval": 1,
-"data_log_on": false
+"data_log_on": true
 },
 "raspberry": {
 "battery_fully_charged": true,
