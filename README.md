@@ -8,7 +8,6 @@ Michael Enderli
 Hier finden Sie die im Rahmen dieser Maturitätsarbeit entstandenen Diagramme mit den dazugehörigen Datensätzen.  
 
 
-    
 ### [Code](https://github.com/LaTartaRugaa/Lastmanagement-System/tree/main/Code)
 #### [Lastmanagement-App](https://github.com/LaTartaRugaa/Lastmanagement-System/tree/main/Code/Lastmanagement-App)
 #### [Raspberry Pi Zero W](https://github.com/LaTartaRugaa/Lastmanagement-System/tree/main/Code/Raspberry%20Pi%20Zero%20W)
