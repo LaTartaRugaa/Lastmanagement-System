@@ -15,7 +15,7 @@ Dieser Ordner beinhaltet den Code für die Lastmanagement-App. Allerdings fehlt 
 #### [Raspberry Pi Zero W](https://github.com/LaTartaRugaa/Lastmanagement-System/tree/main/Code/Raspberry%20Pi%20Zero%20W)
 Der hier vorhandene Code wird vom Raspberry Pi Zero W ausgeführt. Hier fehlt ebenfalls die Datei credentials.py.
 #### [Weitere Skripte](https://github.com/LaTartaRugaa/Lastmanagement-System/tree/main/Code/Weitere%20Skripte)
-Hier finden einerseits die Datei [
+Das Skript [hardware_test.py](https://github.com/LaTartaRugaa/Lastmanagement-System/blob/main/Code/Weitere%20Skripte/hardware_test.py) wurde beim Funktionstest ausgeführt und speicherte die Messwerte in einer CSV-Datei ab. Aus diesen Messwerten wurde das Diagramm [Kennlinie des Stromsensors Debo Sens 20 A.xlsx](https://github.com/LaTartaRugaa/Lastmanagement-System/blob/main/Diagramme/Kennlinie%20des%20Stromsensors%20Debo%20Sens%2020%20A.xlsx) generiert.
 
 
 Die Datei [data_log_to_csv.py](https://github.com/LaTartaRugaa/Lastmanagement-System/blob/main/Code/Weitere%20Skripte/data_log_to_csv.py) im Ordner [Weitere Skripte](https://github.com/LaTartaRugaa/Lastmanagement-System/tree/main/Code/Weitere%20Skripte) wurde entwickelt, um die Logging-Daten aus der JSON-Datei in eine CSV-Datei zu übertragen, wodurch die Diagramme in der Datei [Lastmanagementsystem - Aufzeichnung (18.11.2023-19.11.2023).xlsx](https://github.com/LaTartaRugaa/Lastmanagement-System/blob/main/Diagramme/Lastmanagementsystem%20-%20Aufzeichnung%20(18.11.2023-19.11.2023).xlsx) generiert werden konnten. Die Datei [Kennlinie des Stromsensors Debo Sens 20 A.xlsx](https://github.com/LaTartaRugaa/Lastmanagement-System/blob/main/Diagramme/Kennlinie%20des%20Stromsensors%20Debo%20Sens%2020%20A.xlsx)
