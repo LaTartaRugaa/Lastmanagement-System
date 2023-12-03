@@ -9,8 +9,13 @@ Hier finden Sie die im Rahmen dieser Maturitätsarbeit entstandenen Diagramme mi
 
 
 ### [Code](https://github.com/LaTartaRugaa/Lastmanagement-System/tree/main/Code)
+
 #### [Lastmanagement-App](https://github.com/LaTartaRugaa/Lastmanagement-System/tree/main/Code/Lastmanagement-App)
+Hier finden Sie den Code, der für die App entwickelt wurde. 
 #### [Raspberry Pi Zero W](https://github.com/LaTartaRugaa/Lastmanagement-System/tree/main/Code/Raspberry%20Pi%20Zero%20W)
+Hier finden Sie den Code, der für für den Raspberry Pi Zero W entwickelt wurde
 #### [Weitere Skripte](https://github.com/LaTartaRugaa/Lastmanagement-System/tree/main/Code/Weitere%20Skripte)
+Hier finden einerseits die Datei [
+
 
 Die Datei [data_log_to_csv.py](https://github.com/LaTartaRugaa/Lastmanagement-System/blob/main/Code/Weitere%20Skripte/data_log_to_csv.py) im Ordner [Weitere Skripte](https://github.com/LaTartaRugaa/Lastmanagement-System/tree/main/Code/Weitere%20Skripte) wurde entwickelt, um die Logging-Daten aus der JSON-Datei in eine CSV-Datei zu übertragen, wodurch die Diagramme in der Datei [Lastmanagementsystem - Aufzeichnung (18.11.2023-19.11.2023).xlsx](https://github.com/LaTartaRugaa/Lastmanagement-System/blob/main/Diagramme/Lastmanagementsystem%20-%20Aufzeichnung%20(18.11.2023-19.11.2023).xlsx) generiert werden konnten. Die Datei [Kennlinie des Stromsensors Debo Sens 20 A.xlsx](https://github.com/LaTartaRugaa/Lastmanagement-System/blob/main/Diagramme/Kennlinie%20des%20Stromsensors%20Debo%20Sens%2020%20A.xlsx)
