@@ -4,9 +4,12 @@ Kantonsschule Rychenberg
 Michael Enderli
 
 ## Informationen
+### [db.json](https://github.com/LaTartaRugaa/Lastmanagement-System/blob/main/db.json)
+
+### [data_log.json](https://github.com/LaTartaRugaa/Lastmanagement-System/blob/main/data_log.json)
+
 ### [Diagramme](https://github.com/LaTartaRugaa/Lastmanagement-System/tree/main/Diagramme)
 Hier finden Sie die im Rahmen dieser Maturitätsarbeit entstandenen Diagramme mit den dazugehörigen Datensätzen.  
-
 
 ### [Code](https://github.com/LaTartaRugaa/Lastmanagement-System/tree/main/Code)
 
