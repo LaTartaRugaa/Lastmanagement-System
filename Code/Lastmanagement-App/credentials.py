@@ -1,0 +1,5 @@
+github_username = "LaTartaRugaa"
+github_repository = "Lastmanagement-System"
+github_file_path = "db.json"
+github_access_email = ""
+github_token = ""
