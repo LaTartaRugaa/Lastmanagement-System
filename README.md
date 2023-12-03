@@ -3,3 +3,4 @@ Maturitätsarbeit 2023 / 2024
 Kantonsschule Rychenberg  
 Michael Enderli
 
+## Beschreibung
