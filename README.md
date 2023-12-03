@@ -5,8 +5,10 @@ Michael Enderli
 
 ## Informationen
 ### [db.json](https://github.com/LaTartaRugaa/Lastmanagement-System/blob/main/db.json)
+In dieser Datei findet der Datenaustausch zwischen der Lastmanagement-App und dem Lastmanagementsystem statt. Somit sind in der Datei alle gegenwärtigen Einstellungen und Zustände ersichtlich.
 
 ### [data_log.json](https://github.com/LaTartaRugaa/Lastmanagement-System/blob/main/data_log.json)
+In dieser Datei werden die Daten der Datei [db.json](https://github.com/LaTartaRugaa/Lastmanagement-System/blob/main/db.json) im vorgegebenen Zeitintervall abgespeichert.
 
 ### [Diagramme](https://github.com/LaTartaRugaa/Lastmanagement-System/tree/main/Diagramme)
 Hier finden Sie die im Rahmen dieser Maturitätsarbeit entstandenen Diagramme mit den dazugehörigen Datensätzen.  
