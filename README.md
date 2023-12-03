@@ -12,8 +12,7 @@ Hier finden Sie die im Rahmen dieser Maturitätsarbeit entstandenen Diagramme mi
 
 #### [Lastmanagement-App](https://github.com/LaTartaRugaa/Lastmanagement-System/tree/main/Code/Lastmanagement-App)
 Dieser Ordner beinhaltet den Code für die Lastmanagement-App. Allerdings fehlt zur Ausführung der App noch die Datei credentials.py. Diese beinhaltet allerdings das Access-Token zu diesem Github-Repository und wurde daher weggelassen.
-
-            
+<br>
 #### [Raspberry Pi Zero W](https://github.com/LaTartaRugaa/Lastmanagement-System/tree/main/Code/Raspberry%20Pi%20Zero%20W)
 Der hier vorhandene Code wird vom Raspberry Pi Zero W ausgeführt. Hier fehlt ebenfalls die Datei credentials.py, da diese vertrauliche Informationen enthält.
 #### [Weitere Skripte](https://github.com/LaTartaRugaa/Lastmanagement-System/tree/main/Code/Weitere%20Skripte)
