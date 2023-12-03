@@ -4,6 +4,6 @@ Kantonsschule Rychenberg
 Michael Enderli
 
 ## Beschreibung
-Dieses Repository beinhaltet alle Dateien, die im Zusammenhang mit dem Lastmanagementsystem relevant sind.  
+Im Ordner [Diagramme](/Diagramme) finden Sie die im Rahmen dieser Maturitätsarbeit entstandenen Diagramme mit den dazugehörigen Datensätzen.  
 
-Im Ordner [Diagramme](/Diagramme) finden Sie die im Rahmen dieser Maturitätsarbeit entstandenen Diagramme mit den dazugehörigen Datensätzen.
+Im Ordner [Code](/Code) befindet befinden sich die Ordner: [Raspberry Pi Zero W](/Code/Raspberry Pi Zero W).
