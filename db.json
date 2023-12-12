@@ -26,7 +26,7 @@
 0
 ],
 "standby": true,
-"p_device": 140,
+"p_device": 5000,
 "energy_flow": {
 "7.12.2023": 0.0
 }
