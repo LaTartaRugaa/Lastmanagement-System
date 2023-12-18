@@ -18,9 +18,9 @@
 "car_connected": "no car",
 "car_mode": "Default",
 "car_p": 0.0,
-"device_on": false,
+"device_on": true,
 "p_grid": -600,
-"relay_state": 0,
+"relay_state": 1,
 "relay_config": [
 1,
 0
