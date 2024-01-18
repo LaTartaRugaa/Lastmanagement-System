@@ -1,7 +1,7 @@
 {
 "mobile": {
 "delay": 3,
-"device_on": false,
+"device_on": true,
 "preference": "",
 "p_standby_range": 18,
 "pv_mode": "max_self_consumption",
