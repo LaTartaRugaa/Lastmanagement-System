@@ -20,15 +20,15 @@
 "car_p": 0.0,
 "device_on": true,
 "p_grid": 40,
-"relay_state": 0,
+"relay_state": 1,
 "relay_config": [
 1,
 0
 ],
 "standby": false,
-"p_device": 35.8,
+"p_device": 0,
 "energy_flow": {
-"24.1.2024": 1392.8528401851654
+"24.1.2024": 1499.6988424777985
 }
 }
 }
