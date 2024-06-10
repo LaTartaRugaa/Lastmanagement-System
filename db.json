@@ -5,7 +5,7 @@
 "preference": "",
 "p_standby_range": 18,
 "pv_mode": "max_self_consumption",
-"standby": true,
+"standby": false,
 "standby_interval": 3,
 "update_interval": 2,
 "wattpilot_interval": 3,
@@ -19,16 +19,16 @@
 "car_mode": "Default",
 "car_p": 0.0,
 "device_on": true,
-"p_grid": -2913.04,
+"p_grid": -2916.13,
 "relay_state": 0,
 "relay_config": [
 1,
 0
 ],
 "standby": false,
-"p_device": 143.1,
+"p_device": 161.0,
 "energy_flow": {
-"10.6.2024": 4835.742400264739
+"10.6.2024": 5202.7643284082405
 }
 }
 }
