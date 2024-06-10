@@ -18,14 +18,14 @@
 "car_connected": "no car",
 "car_mode": "Default",
 "car_p": 0.0,
-"device_on": false,
-"p_grid": -1889.29,
+"device_on": true,
+"p_grid": -2932.62,
 "relay_state": 1,
 "relay_config": [
 1,
 0
 ],
-"standby": true,
+"standby": false,
 "p_device": 0,
 "energy_flow": {
 "10.6.2024": 0.0
